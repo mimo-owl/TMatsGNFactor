@@ -1,9 +1,14 @@
 # Docker Environment
 ## How to Use
+### (Optional) Set wandb key
+Note: `wandb_key.txt` is git-ignored
+```zsh
+cp wandb_key.txt.keep wandb_key.txt
+echo '{YOUR_WANDB_KEY}' >> wandb_key.txt
+```
 ### 1. Build docker image
 Creating an image named `{YOUR_HOST_NAME}/gnfactor:latest`
 ```zsh
-cd docker
 ./BUILD_DOCKER_IMAGE.sh
 ```
 
