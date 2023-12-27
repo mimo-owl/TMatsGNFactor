@@ -11,3 +11,4 @@ gpustat
 ipdb
 visdom
 sentencepiece
+scipy==1.4.1

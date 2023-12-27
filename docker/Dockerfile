@@ -60,7 +60,10 @@ RUN apt-get update && apt-get install -y \
     libglfw3 \
     libglew2.1 \
     libxinerama1 \
-    qt5-default
+    qt5-default \
+    gfortran \
+    libopenblas-dev \
+    liblapack-dev
 
 # install coppeliasim ----------------
 RUN source /root/.zshrc && \
@@ -96,14 +99,24 @@ RUN source /root/.zshrc && \
     pip install -r /root/requirements.txt
 
 # install xformers ----------------
+# RUN source /root/.zshrc && \
+#     pip install --no-deps xformers==0.0.18
 RUN source /root/.zshrc && \
-    pip install --no-deps xformers==0.0.18
+    pip install ninja && \
+    pip install -v -U git+https://github.com/facebookresearch/xformers.git@v0.0.18#egg=xformers
 
 # install Detectron2 ----------------
 RUN source /root/.zshrc && \
     cd /root && \
     git clone https://github.com/facebookresearch/detectron2.git && \
     cd /root/detectron2 && \
+    pip install -e .
+
+# install latent-diffusion
+RUN source /root/.zshrc && \
+    cd /root && \
+    git clone https://github.com/CompVis/latent-diffusion.git && \
+    cd /root/latent-diffusion && \
     pip install -e .
 
 ENV LC_ALL=C.UTF-8
