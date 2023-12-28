@@ -1,0 +1,14 @@
+fvcore
+iopath
+jupyterlab
+open-clip-torch
+packaging==21.3
+dotmap
+pyhocon
+wandb
+chardet
+gpustat
+ipdb
+visdom
+sentencepiece
+scipy==1.4.1
