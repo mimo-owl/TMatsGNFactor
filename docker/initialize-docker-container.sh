@@ -8,6 +8,8 @@ cd ~/workspace/third_party/RLBench && pip install -r requirements.txt && python 
 cd ~/workspace/third_party/YARR && pip install -r requirements.txt && python setup.py develop
 # install GNFactor
 cd ~/workspace/GNFactor && pip install -r requirements.txt && python setup.py develop
+# install mask2former
+cd ~/workspace/third_party/ODISE/third_party/Mask2Former && pip install -e .
 # install ODISE
 cd ~/workspace/third_party/ODISE && pip install -e .
 # error catching 
