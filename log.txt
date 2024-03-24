@@ -1,0 +1,1431 @@
+device available:  2
+[2024-01-26 08:36:25,053][root][INFO] - CWD:/root/workspace/GNFactor/logs/PERACT_BC_20240126
+[2024-01-26 08:36:25,058][root][INFO] - Starting seed 0.
+INFO:root:Loading Demo(0) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(0) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(1) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(0) - found 3 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(0) - found 6 keypoints - close_jar
+INFO:root:Loading Demo(0) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(2) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(0) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(1) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(1) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(0) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(1) - found 3 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(1) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(3) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(2) - found 6 keypoints - close_jar
+INFO:root:Loading Demo(2) - found 3 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(4) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(3) - found 6 keypoints - close_jar
+INFO:root:Loading Demo(2) - found 5 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(1) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(1) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(3) - found 4 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(2) - found 4 keypoints - turn_tap
+INFO:root:Loading Demo(0) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(5) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(4) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(5) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(3) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(2) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(3) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(6) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(2) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(4) - found 6 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(4) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(6) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(3) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(7) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(4) - found 5 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(3) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(5) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(5) - found 7 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(7) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(8) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(4) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(6) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(8) - found 6 keypoints - close_jar
+INFO:root:Loading Demo(5) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(9) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(1) - found 16 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(4) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(9) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(5) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(6) - found 6 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(10) - found 8 keypoints - close_jar
+INFO:root:Loading Demo(7) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(11) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(7) - found 4 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(6) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(10) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(6) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(8) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(5) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(8) - found 4 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(12) - found 6 keypoints - close_jar
+INFO:root:Loading Demo(7) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(9) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(7) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(11) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(13) - found 8 keypoints - close_jar
+INFO:root:Loading Demo(6) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(10) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(9) - found 5 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(2) - found 16 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(14) - found 8 keypoints - close_jar
+INFO:root:Loading Demo(8) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(8) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(11) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(15) - found 8 keypoints - close_jar
+INFO:root:Loading Demo(12) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(7) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(12) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(10) - found 7 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(9) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(9) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(16) - found 7 keypoints - close_jar
+INFO:root:Loading Demo(13) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(11) - found 3 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(17) - found 8 keypoints - close_jar
+INFO:root:Loading Demo(8) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(10) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(13) - found 4 keypoints - turn_tap
+INFO:root:Loading Demo(10) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(12) - found 3 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(14) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(18) - found 6 keypoints - close_jar
+INFO:root:Loading Demo(14) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(3) - found 14 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(11) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(11) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(9) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(13) - found 4 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(15) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(19) - found 7 keypoints - close_jar
+num_steps: 153
+l_sh_rgb_f: 155
+l_sh_depth_f: 155
+r_sh_rgb_f: 155
+r_sh_depth_f: 155
+oh_rgb_f: 155
+oh_depth_f: 155
+wrist_rgb_f: 155
+wrist_depth_f: 155
+front_rgb_f: 159
+front_depth_f: 158
+Broken dataset assumption. continuing anyway :/
+num_steps: 153
+l_sh_rgb_f: 155
+l_sh_depth_f: 155
+r_sh_rgb_f: 155
+r_sh_depth_f: 155
+oh_rgb_f: 155
+oh_depth_f: 155
+wrist_rgb_f: 155
+wrist_depth_f: 155
+front_rgb_f: 159
+front_depth_f: 158
+Broken dataset assumption. continuing anyway :/
+INFO:root:Loading Demo(15) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(12) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(16) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(12) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(10) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(14) - found 7 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(13) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(16) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(17) - found 4 keypoints - open_drawer
+INFO:root:Loading Demo(13) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(15) - found 4 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(11) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(18) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(14) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(14) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(17) - found 2 keypoints - turn_tap
+INFO:root:Loading Demo(4) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(19) - found 5 keypoints - open_drawer
+INFO:root:Loading Demo(15) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(15) - found 4 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(12) - found 7 keypoints - reach_and_drag
+INFO:root:Loading Demo(18) - found 3 keypoints - turn_tap
+INFO:root:Loading Demo(16) - found 6 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(16) - found 7 keypoints - meat_off_grill
+INFO:root:Loading Demo(16) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(13) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(19) - found 3 keypoints - turn_tap
+num_steps: 161
+l_sh_rgb_f: 161
+l_sh_depth_f: 161
+r_sh_rgb_f: 161
+r_sh_depth_f: 161
+oh_rgb_f: 161
+oh_depth_f: 161
+wrist_rgb_f: 161
+wrist_depth_f: 161
+front_rgb_f: 163
+front_depth_f: 161
+Broken dataset assumption. continuing anyway :/
+num_steps: 170
+l_sh_rgb_f: 170
+l_sh_depth_f: 170
+r_sh_rgb_f: 170
+r_sh_depth_f: 170
+oh_rgb_f: 170
+oh_depth_f: 170
+wrist_rgb_f: 170
+wrist_depth_f: 170
+front_rgb_f: 172
+front_depth_f: 170
+Broken dataset assumption. continuing anyway :/
+num_steps: 112
+l_sh_rgb_f: 112
+l_sh_depth_f: 112
+r_sh_rgb_f: 112
+r_sh_depth_f: 112
+oh_rgb_f: 112
+oh_depth_f: 112
+wrist_rgb_f: 112
+wrist_depth_f: 112
+front_rgb_f: 118
+front_depth_f: 112
+Broken dataset assumption. continuing anyway :/
+INFO:root:Loading Demo(17) - found 6 keypoints - meat_off_grill
+num_steps: 161
+l_sh_rgb_f: 161
+l_sh_depth_f: 161
+r_sh_rgb_f: 161
+r_sh_depth_f: 161
+oh_rgb_f: 161
+oh_depth_f: 161
+wrist_rgb_f: 161
+wrist_depth_f: 161
+front_rgb_f: 163
+front_depth_f: 161
+Broken dataset assumption. continuing anyway :/
+num_steps: 170
+l_sh_rgb_f: 170
+l_sh_depth_f: 170
+r_sh_rgb_f: 170
+r_sh_depth_f: 170
+oh_rgb_f: 170
+oh_depth_f: 170
+wrist_rgb_f: 170
+wrist_depth_f: 170
+front_rgb_f: 172
+front_depth_f: 170
+Broken dataset assumption. continuing anyway :/
+num_steps: 112
+l_sh_rgb_f: 112
+l_sh_depth_f: 112
+r_sh_rgb_f: 112
+r_sh_depth_f: 112
+oh_rgb_f: 112
+oh_depth_f: 112
+wrist_rgb_f: 112
+wrist_depth_f: 112
+front_rgb_f: 118
+front_depth_f: 112
+Broken dataset assumption. continuing anyway :/
+INFO:root:Loading Demo(17) - found 6 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(17) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(5) - found 13 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(18) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(14) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(18) - found 7 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(18) - found 5 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(19) - found 6 keypoints - meat_off_grill
+INFO:root:Loading Demo(15) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(19) - found 6 keypoints - sweep_to_dustpan_of_size
+INFO:root:Loading Demo(19) - found 4 keypoints - slide_block_to_color_target
+INFO:root:Loading Demo(16) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(6) - found 16 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(17) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(18) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(19) - found 6 keypoints - reach_and_drag
+INFO:root:Loading Demo(7) - found 14 keypoints - put_item_in_drawer
+num_steps: 156
+l_sh_rgb_f: 202
+l_sh_depth_f: 202
+r_sh_rgb_f: 202
+r_sh_depth_f: 202
+oh_rgb_f: 202
+oh_depth_f: 202
+wrist_rgb_f: 202
+wrist_depth_f: 202
+front_rgb_f: 202
+front_depth_f: 202
+Broken dataset assumption. continuing anyway :/
+num_steps: 148
+l_sh_rgb_f: 163
+l_sh_depth_f: 163
+r_sh_rgb_f: 163
+r_sh_depth_f: 163
+oh_rgb_f: 163
+oh_depth_f: 163
+wrist_rgb_f: 163
+wrist_depth_f: 163
+front_rgb_f: 163
+front_depth_f: 163
+Broken dataset assumption. continuing anyway :/
+num_steps: 159
+l_sh_rgb_f: 234
+l_sh_depth_f: 234
+r_sh_rgb_f: 234
+r_sh_depth_f: 234
+oh_rgb_f: 234
+oh_depth_f: 234
+wrist_rgb_f: 234
+wrist_depth_f: 234
+front_rgb_f: 234
+front_depth_f: 234
+Broken dataset assumption. continuing anyway :/
+num_steps: 160
+l_sh_rgb_f: 162
+l_sh_depth_f: 162
+r_sh_rgb_f: 162
+r_sh_depth_f: 162
+oh_rgb_f: 162
+oh_depth_f: 162
+wrist_rgb_f: 162
+wrist_depth_f: 162
+front_rgb_f: 162
+front_depth_f: 162
+Broken dataset assumption. continuing anyway :/
+num_steps: 161
+l_sh_rgb_f: 193
+l_sh_depth_f: 193
+r_sh_rgb_f: 193
+r_sh_depth_f: 193
+oh_rgb_f: 193
+oh_depth_f: 193
+wrist_rgb_f: 193
+wrist_depth_f: 193
+front_rgb_f: 193
+front_depth_f: 193
+Broken dataset assumption. continuing anyway :/
+num_steps: 150
+l_sh_rgb_f: 158
+l_sh_depth_f: 158
+r_sh_rgb_f: 158
+r_sh_depth_f: 158
+oh_rgb_f: 158
+oh_depth_f: 158
+wrist_rgb_f: 158
+wrist_depth_f: 158
+front_rgb_f: 158
+front_depth_f: 158
+Broken dataset assumption. continuing anyway :/
+num_steps: 161
+l_sh_rgb_f: 162
+l_sh_depth_f: 162
+r_sh_rgb_f: 162
+r_sh_depth_f: 162
+oh_rgb_f: 162
+oh_depth_f: 162
+wrist_rgb_f: 162
+wrist_depth_f: 162
+front_rgb_f: 162
+front_depth_f: 162
+Broken dataset assumption. continuing anyway :/
+num_steps: 159
+l_sh_rgb_f: 216
+l_sh_depth_f: 216
+r_sh_rgb_f: 216
+r_sh_depth_f: 216
+oh_rgb_f: 216
+oh_depth_f: 216
+wrist_rgb_f: 216
+wrist_depth_f: 216
+front_rgb_f: 216
+front_depth_f: 216
+Broken dataset assumption. continuing anyway :/
+num_steps: 161
+l_sh_rgb_f: 164
+l_sh_depth_f: 164
+r_sh_rgb_f: 164
+r_sh_depth_f: 164
+oh_rgb_f: 164
+oh_depth_f: 164
+wrist_rgb_f: 164
+wrist_depth_f: 164
+front_rgb_f: 164
+front_depth_f: 164
+Broken dataset assumption. continuing anyway :/
+num_steps: 157
+l_sh_rgb_f: 170
+l_sh_depth_f: 170
+r_sh_rgb_f: 170
+r_sh_depth_f: 170
+oh_rgb_f: 170
+oh_depth_f: 170
+wrist_rgb_f: 170
+wrist_depth_f: 170
+front_rgb_f: 170
+front_depth_f: 170
+Broken dataset assumption. continuing anyway :/
+num_steps: 154
+l_sh_rgb_f: 159
+l_sh_depth_f: 159
+r_sh_rgb_f: 159
+r_sh_depth_f: 159
+oh_rgb_f: 159
+oh_depth_f: 159
+wrist_rgb_f: 159
+wrist_depth_f: 159
+front_rgb_f: 159
+front_depth_f: 159
+Broken dataset assumption. continuing anyway :/
+num_steps: 157
+l_sh_rgb_f: 162
+l_sh_depth_f: 162
+r_sh_rgb_f: 162
+r_sh_depth_f: 162
+oh_rgb_f: 162
+oh_depth_f: 162
+wrist_rgb_f: 162
+wrist_depth_f: 162
+front_rgb_f: 162
+front_depth_f: 162
+Broken dataset assumption. continuing anyway :/
+num_steps: 165
+l_sh_rgb_f: 166
+l_sh_depth_f: 166
+r_sh_rgb_f: 166
+r_sh_depth_f: 166
+oh_rgb_f: 166
+oh_depth_f: 166
+wrist_rgb_f: 166
+wrist_depth_f: 166
+front_rgb_f: 166
+front_depth_f: 166
+Broken dataset assumption. continuing anyway :/
+num_steps: 157
+l_sh_rgb_f: 165
+l_sh_depth_f: 165
+r_sh_rgb_f: 165
+r_sh_depth_f: 165
+oh_rgb_f: 165
+oh_depth_f: 165
+wrist_rgb_f: 165
+wrist_depth_f: 165
+front_rgb_f: 165
+front_depth_f: 165
+Broken dataset assumption. continuing anyway :/
+num_steps: 152
+l_sh_rgb_f: 161
+l_sh_depth_f: 161
+r_sh_rgb_f: 161
+r_sh_depth_f: 161
+oh_rgb_f: 161
+oh_depth_f: 161
+wrist_rgb_f: 161
+wrist_depth_f: 161
+front_rgb_f: 161
+front_depth_f: 161
+Broken dataset assumption. continuing anyway :/
+num_steps: 156
+l_sh_rgb_f: 202
+l_sh_depth_f: 202
+r_sh_rgb_f: 202
+r_sh_depth_f: 202
+oh_rgb_f: 202
+oh_depth_f: 202
+wrist_rgb_f: 202
+wrist_depth_f: 202
+front_rgb_f: 202
+front_depth_f: 202
+Broken dataset assumption. continuing anyway :/
+num_steps: 148
+l_sh_rgb_f: 163
+l_sh_depth_f: 163
+r_sh_rgb_f: 163
+r_sh_depth_f: 163
+oh_rgb_f: 163
+oh_depth_f: 163
+wrist_rgb_f: 163
+wrist_depth_f: 163
+front_rgb_f: 163
+front_depth_f: 163
+Broken dataset assumption. continuing anyway :/
+num_steps: 159
+l_sh_rgb_f: 234
+l_sh_depth_f: 234
+r_sh_rgb_f: 234
+r_sh_depth_f: 234
+oh_rgb_f: 234
+oh_depth_f: 234
+wrist_rgb_f: 234
+wrist_depth_f: 234
+front_rgb_f: 234
+front_depth_f: 234
+Broken dataset assumption. continuing anyway :/
+num_steps: 160
+l_sh_rgb_f: 162
+l_sh_depth_f: 162
+r_sh_rgb_f: 162
+r_sh_depth_f: 162
+oh_rgb_f: 162
+oh_depth_f: 162
+wrist_rgb_f: 162
+wrist_depth_f: 162
+front_rgb_f: 162
+front_depth_f: 162
+Broken dataset assumption. continuing anyway :/
+num_steps: 161
+l_sh_rgb_f: 193
+l_sh_depth_f: 193
+r_sh_rgb_f: 193
+r_sh_depth_f: 193
+oh_rgb_f: 193
+oh_depth_f: 193
+wrist_rgb_f: 193
+wrist_depth_f: 193
+front_rgb_f: 193
+front_depth_f: 193
+Broken dataset assumption. continuing anyway :/
+num_steps: 150
+l_sh_rgb_f: 158
+l_sh_depth_f: 158
+r_sh_rgb_f: 158
+r_sh_depth_f: 158
+oh_rgb_f: 158
+oh_depth_f: 158
+wrist_rgb_f: 158
+wrist_depth_f: 158
+front_rgb_f: 158
+front_depth_f: 158
+Broken dataset assumption. continuing anyway :/
+num_steps: 161
+l_sh_rgb_f: 162
+l_sh_depth_f: 162
+r_sh_rgb_f: 162
+r_sh_depth_f: 162
+oh_rgb_f: 162
+oh_depth_f: 162
+wrist_rgb_f: 162
+wrist_depth_f: 162
+front_rgb_f: 162
+front_depth_f: 162
+Broken dataset assumption. continuing anyway :/
+num_steps: 159
+l_sh_rgb_f: 216
+l_sh_depth_f: 216
+r_sh_rgb_f: 216
+r_sh_depth_f: 216
+oh_rgb_f: 216
+oh_depth_f: 216
+wrist_rgb_f: 216
+wrist_depth_f: 216
+front_rgb_f: 216
+front_depth_f: 216
+Broken dataset assumption. continuing anyway :/
+num_steps: 161
+l_sh_rgb_f: 164
+l_sh_depth_f: 164
+r_sh_rgb_f: 164
+r_sh_depth_f: 164
+oh_rgb_f: 164
+oh_depth_f: 164
+wrist_rgb_f: 164
+wrist_depth_f: 164
+front_rgb_f: 164
+front_depth_f: 164
+Broken dataset assumption. continuing anyway :/
+num_steps: 157
+l_sh_rgb_f: 170
+l_sh_depth_f: 170
+r_sh_rgb_f: 170
+r_sh_depth_f: 170
+oh_rgb_f: 170
+oh_depth_f: 170
+wrist_rgb_f: 170
+wrist_depth_f: 170
+front_rgb_f: 170
+front_depth_f: 170
+Broken dataset assumption. continuing anyway :/
+num_steps: 154
+l_sh_rgb_f: 159
+l_sh_depth_f: 159
+r_sh_rgb_f: 159
+r_sh_depth_f: 159
+oh_rgb_f: 159
+oh_depth_f: 159
+wrist_rgb_f: 159
+wrist_depth_f: 159
+front_rgb_f: 159
+front_depth_f: 159
+Broken dataset assumption. continuing anyway :/
+num_steps: 157
+l_sh_rgb_f: 162
+l_sh_depth_f: 162
+r_sh_rgb_f: 162
+r_sh_depth_f: 162
+oh_rgb_f: 162
+oh_depth_f: 162
+wrist_rgb_f: 162
+wrist_depth_f: 162
+front_rgb_f: 162
+front_depth_f: 162
+Broken dataset assumption. continuing anyway :/
+num_steps: 165
+l_sh_rgb_f: 166
+l_sh_depth_f: 166
+r_sh_rgb_f: 166
+r_sh_depth_f: 166
+oh_rgb_f: 166
+oh_depth_f: 166
+wrist_rgb_f: 166
+wrist_depth_f: 166
+front_rgb_f: 166
+front_depth_f: 166
+Broken dataset assumption. continuing anyway :/
+num_steps: 157
+l_sh_rgb_f: 165
+l_sh_depth_f: 165
+r_sh_rgb_f: 165
+r_sh_depth_f: 165
+oh_rgb_f: 165
+oh_depth_f: 165
+wrist_rgb_f: 165
+wrist_depth_f: 165
+front_rgb_f: 165
+front_depth_f: 165
+Broken dataset assumption. continuing anyway :/
+num_steps: 152
+l_sh_rgb_f: 161
+l_sh_depth_f: 161
+r_sh_rgb_f: 161
+r_sh_depth_f: 161
+oh_rgb_f: 161
+oh_depth_f: 161
+wrist_rgb_f: 161
+wrist_depth_f: 161
+front_rgb_f: 161
+front_depth_f: 161
+Broken dataset assumption. continuing anyway :/
+INFO:root:Loading Demo(8) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(9) - found 14 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(10) - found 14 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(11) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(12) - found 14 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(13) - found 13 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(14) - found 12 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(15) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(16) - found 12 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(17) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(18) - found 15 keypoints - put_item_in_drawer
+INFO:root:Loading Demo(19) - found 15 keypoints - put_item_in_drawer
+num_steps: 402
+l_sh_rgb_f: 403
+l_sh_depth_f: 403
+r_sh_rgb_f: 403
+r_sh_depth_f: 403
+oh_rgb_f: 403
+oh_depth_f: 403
+wrist_rgb_f: 403
+wrist_depth_f: 403
+front_rgb_f: 403
+front_depth_f: 403
+Broken dataset assumption. continuing anyway :/
+num_steps: 402
+l_sh_rgb_f: 429
+l_sh_depth_f: 429
+r_sh_rgb_f: 429
+r_sh_depth_f: 429
+oh_rgb_f: 429
+oh_depth_f: 429
+wrist_rgb_f: 429
+wrist_depth_f: 429
+front_rgb_f: 429
+front_depth_f: 429
+Broken dataset assumption. continuing anyway :/
+num_steps: 372
+l_sh_rgb_f: 411
+l_sh_depth_f: 411
+r_sh_rgb_f: 411
+r_sh_depth_f: 411
+oh_rgb_f: 411
+oh_depth_f: 411
+wrist_rgb_f: 411
+wrist_depth_f: 411
+front_rgb_f: 411
+front_depth_f: 411
+Broken dataset assumption. continuing anyway :/
+num_steps: 426
+l_sh_rgb_f: 433
+l_sh_depth_f: 433
+r_sh_rgb_f: 433
+r_sh_depth_f: 433
+oh_rgb_f: 433
+oh_depth_f: 433
+wrist_rgb_f: 433
+wrist_depth_f: 433
+front_rgb_f: 433
+front_depth_f: 433
+Broken dataset assumption. continuing anyway :/
+num_steps: 411
+l_sh_rgb_f: 415
+l_sh_depth_f: 415
+r_sh_rgb_f: 415
+r_sh_depth_f: 415
+oh_rgb_f: 415
+oh_depth_f: 415
+wrist_rgb_f: 415
+wrist_depth_f: 415
+front_rgb_f: 415
+front_depth_f: 415
+Broken dataset assumption. continuing anyway :/
+num_steps: 392
+l_sh_rgb_f: 435
+l_sh_depth_f: 435
+r_sh_rgb_f: 435
+r_sh_depth_f: 435
+oh_rgb_f: 435
+oh_depth_f: 435
+wrist_rgb_f: 435
+wrist_depth_f: 435
+front_rgb_f: 435
+front_depth_f: 435
+Broken dataset assumption. continuing anyway :/
+num_steps: 425
+l_sh_rgb_f: 445
+l_sh_depth_f: 445
+r_sh_rgb_f: 445
+r_sh_depth_f: 445
+oh_rgb_f: 445
+oh_depth_f: 445
+wrist_rgb_f: 445
+wrist_depth_f: 445
+front_rgb_f: 445
+front_depth_f: 445
+Broken dataset assumption. continuing anyway :/
+num_steps: 387
+l_sh_rgb_f: 403
+l_sh_depth_f: 403
+r_sh_rgb_f: 403
+r_sh_depth_f: 403
+oh_rgb_f: 403
+oh_depth_f: 403
+wrist_rgb_f: 403
+wrist_depth_f: 403
+front_rgb_f: 403
+front_depth_f: 403
+Broken dataset assumption. continuing anyway :/
+num_steps: 369
+l_sh_rgb_f: 457
+l_sh_depth_f: 457
+r_sh_rgb_f: 457
+r_sh_depth_f: 457
+oh_rgb_f: 457
+oh_depth_f: 457
+wrist_rgb_f: 457
+wrist_depth_f: 457
+front_rgb_f: 457
+front_depth_f: 457
+Broken dataset assumption. continuing anyway :/
+num_steps: 402
+l_sh_rgb_f: 403
+l_sh_depth_f: 403
+r_sh_rgb_f: 403
+r_sh_depth_f: 403
+oh_rgb_f: 403
+oh_depth_f: 403
+wrist_rgb_f: 403
+wrist_depth_f: 403
+front_rgb_f: 403
+front_depth_f: 403
+Broken dataset assumption. continuing anyway :/
+num_steps: 402
+l_sh_rgb_f: 429
+l_sh_depth_f: 429
+r_sh_rgb_f: 429
+r_sh_depth_f: 429
+oh_rgb_f: 429
+oh_depth_f: 429
+wrist_rgb_f: 429
+wrist_depth_f: 429
+front_rgb_f: 429
+front_depth_f: 429
+Broken dataset assumption. continuing anyway :/
+num_steps: 372
+l_sh_rgb_f: 411
+l_sh_depth_f: 411
+r_sh_rgb_f: 411
+r_sh_depth_f: 411
+oh_rgb_f: 411
+oh_depth_f: 411
+wrist_rgb_f: 411
+wrist_depth_f: 411
+front_rgb_f: 411
+front_depth_f: 411
+Broken dataset assumption. continuing anyway :/
+num_steps: 426
+l_sh_rgb_f: 433
+l_sh_depth_f: 433
+r_sh_rgb_f: 433
+r_sh_depth_f: 433
+oh_rgb_f: 433
+oh_depth_f: 433
+wrist_rgb_f: 433
+wrist_depth_f: 433
+front_rgb_f: 433
+front_depth_f: 433
+Broken dataset assumption. continuing anyway :/
+num_steps: 411
+l_sh_rgb_f: 415
+l_sh_depth_f: 415
+r_sh_rgb_f: 415
+r_sh_depth_f: 415
+oh_rgb_f: 415
+oh_depth_f: 415
+wrist_rgb_f: 415
+wrist_depth_f: 415
+front_rgb_f: 415
+front_depth_f: 415
+Broken dataset assumption. continuing anyway :/
+num_steps: 392
+l_sh_rgb_f: 435
+l_sh_depth_f: 435
+r_sh_rgb_f: 435
+r_sh_depth_f: 435
+oh_rgb_f: 435
+oh_depth_f: 435
+wrist_rgb_f: 435
+wrist_depth_f: 435
+front_rgb_f: 435
+front_depth_f: 435
+Broken dataset assumption. continuing anyway :/
+num_steps: 425
+l_sh_rgb_f: 445
+l_sh_depth_f: 445
+r_sh_rgb_f: 445
+r_sh_depth_f: 445
+oh_rgb_f: 445
+oh_depth_f: 445
+wrist_rgb_f: 445
+wrist_depth_f: 445
+front_rgb_f: 445
+front_depth_f: 445
+Broken dataset assumption. continuing anyway :/
+num_steps: 387
+l_sh_rgb_f: 403
+l_sh_depth_f: 403
+r_sh_rgb_f: 403
+r_sh_depth_f: 403
+oh_rgb_f: 403
+oh_depth_f: 403
+wrist_rgb_f: 403
+wrist_depth_f: 403
+front_rgb_f: 403
+front_depth_f: 403
+Broken dataset assumption. continuing anyway :/
+num_steps: 369
+l_sh_rgb_f: 457
+l_sh_depth_f: 457
+r_sh_rgb_f: 457
+r_sh_depth_f: 457
+oh_rgb_f: 457
+oh_depth_f: 457
+wrist_rgb_f: 457
+wrist_depth_f: 457
+front_rgb_f: 457
+front_depth_f: 457
+Broken dataset assumption. continuing anyway :/
+INFO:root:Loading Demo(0) - found 5 keypoints - push_buttons
+INFO:root:Loading Demo(1) - found 2 keypoints - push_buttons
+INFO:root:Loading Demo(2) - found 2 keypoints - push_buttons
+INFO:root:Loading Demo(3) - found 3 keypoints - push_buttons
+INFO:root:Loading Demo(0) - found 19 keypoints - stack_blocks
+INFO:root:Loading Demo(4) - found 4 keypoints - push_buttons
+INFO:root:Loading Demo(5) - found 5 keypoints - push_buttons
+INFO:root:Loading Demo(6) - found 6 keypoints - push_buttons
+INFO:root:Loading Demo(7) - found 4 keypoints - push_buttons
+INFO:root:Loading Demo(8) - found 8 keypoints - push_buttons
+INFO:root:Loading Demo(9) - found 6 keypoints - push_buttons
+INFO:root:Loading Demo(1) - found 15 keypoints - stack_blocks
+INFO:root:Loading Demo(10) - found 5 keypoints - push_buttons
+INFO:root:Loading Demo(11) - found 3 keypoints - push_buttons
+INFO:root:Loading Demo(12) - found 5 keypoints - push_buttons
+INFO:root:Loading Demo(13) - found 4 keypoints - push_buttons
+INFO:root:Loading Demo(14) - found 6 keypoints - push_buttons
+INFO:root:Loading Demo(15) - found 5 keypoints - push_buttons
+INFO:root:Loading Demo(2) - found 27 keypoints - stack_blocks
+INFO:root:Loading Demo(16) - found 8 keypoints - push_buttons
+INFO:root:Loading Demo(17) - found 7 keypoints - push_buttons
+INFO:root:Loading Demo(18) - found 5 keypoints - push_buttons
+INFO:root:Loading Demo(19) - found 4 keypoints - push_buttons
+num_steps: 71
+l_sh_rgb_f: 98
+l_sh_depth_f: 98
+r_sh_rgb_f: 98
+r_sh_depth_f: 98
+oh_rgb_f: 98
+oh_depth_f: 98
+wrist_rgb_f: 98
+wrist_depth_f: 98
+front_rgb_f: 98
+front_depth_f: 98
+Broken dataset assumption. continuing anyway :/
+num_steps: 59
+l_sh_rgb_f: 71
+l_sh_depth_f: 71
+r_sh_rgb_f: 71
+r_sh_depth_f: 71
+oh_rgb_f: 71
+oh_depth_f: 71
+wrist_rgb_f: 71
+wrist_depth_f: 71
+front_rgb_f: 71
+front_depth_f: 71
+Broken dataset assumption. continuing anyway :/
+num_steps: 61
+l_sh_rgb_f: 77
+l_sh_depth_f: 77
+r_sh_rgb_f: 77
+r_sh_depth_f: 77
+oh_rgb_f: 77
+oh_depth_f: 77
+wrist_rgb_f: 77
+wrist_depth_f: 77
+front_rgb_f: 77
+front_depth_f: 77
+Broken dataset assumption. continuing anyway :/
+num_steps: 98
+l_sh_rgb_f: 106
+l_sh_depth_f: 106
+r_sh_rgb_f: 106
+r_sh_depth_f: 106
+oh_rgb_f: 106
+oh_depth_f: 106
+wrist_rgb_f: 106
+wrist_depth_f: 106
+front_rgb_f: 106
+front_depth_f: 106
+Broken dataset assumption. continuing anyway :/
+num_steps: 63
+l_sh_rgb_f: 107
+l_sh_depth_f: 107
+r_sh_rgb_f: 107
+r_sh_depth_f: 107
+oh_rgb_f: 107
+oh_depth_f: 107
+wrist_rgb_f: 107
+wrist_depth_f: 107
+front_rgb_f: 107
+front_depth_f: 107
+Broken dataset assumption. continuing anyway :/
+num_steps: 110
+l_sh_rgb_f: 126
+l_sh_depth_f: 126
+r_sh_rgb_f: 126
+r_sh_depth_f: 126
+oh_rgb_f: 126
+oh_depth_f: 126
+wrist_rgb_f: 126
+wrist_depth_f: 126
+front_rgb_f: 126
+front_depth_f: 126
+Broken dataset assumption. continuing anyway :/
+num_steps: 72
+l_sh_rgb_f: 137
+l_sh_depth_f: 137
+r_sh_rgb_f: 137
+r_sh_depth_f: 137
+oh_rgb_f: 137
+oh_depth_f: 137
+wrist_rgb_f: 137
+wrist_depth_f: 137
+front_rgb_f: 137
+front_depth_f: 137
+Broken dataset assumption. continuing anyway :/
+num_steps: 110
+l_sh_rgb_f: 182
+l_sh_depth_f: 182
+r_sh_rgb_f: 182
+r_sh_depth_f: 182
+oh_rgb_f: 182
+oh_depth_f: 182
+wrist_rgb_f: 182
+wrist_depth_f: 182
+front_rgb_f: 182
+front_depth_f: 182
+Broken dataset assumption. continuing anyway :/
+num_steps: 65
+l_sh_rgb_f: 146
+l_sh_depth_f: 146
+r_sh_rgb_f: 146
+r_sh_depth_f: 146
+oh_rgb_f: 146
+oh_depth_f: 146
+wrist_rgb_f: 146
+wrist_depth_f: 146
+front_rgb_f: 146
+front_depth_f: 146
+Broken dataset assumption. continuing anyway :/
+num_steps: 71
+l_sh_rgb_f: 98
+l_sh_depth_f: 98
+r_sh_rgb_f: 98
+r_sh_depth_f: 98
+oh_rgb_f: 98
+oh_depth_f: 98
+wrist_rgb_f: 98
+wrist_depth_f: 98
+front_rgb_f: 98
+front_depth_f: 98
+Broken dataset assumption. continuing anyway :/
+num_steps: 59
+l_sh_rgb_f: 71
+l_sh_depth_f: 71
+r_sh_rgb_f: 71
+r_sh_depth_f: 71
+oh_rgb_f: 71
+oh_depth_f: 71
+wrist_rgb_f: 71
+wrist_depth_f: 71
+front_rgb_f: 71
+front_depth_f: 71
+Broken dataset assumption. continuing anyway :/
+num_steps: 61
+l_sh_rgb_f: 77
+l_sh_depth_f: 77
+r_sh_rgb_f: 77
+r_sh_depth_f: 77
+oh_rgb_f: 77
+oh_depth_f: 77
+wrist_rgb_f: 77
+wrist_depth_f: 77
+front_rgb_f: 77
+front_depth_f: 77
+Broken dataset assumption. continuing anyway :/
+num_steps: 98
+l_sh_rgb_f: 106
+l_sh_depth_f: 106
+r_sh_rgb_f: 106
+r_sh_depth_f: 106
+oh_rgb_f: 106
+oh_depth_f: 106
+wrist_rgb_f: 106
+wrist_depth_f: 106
+front_rgb_f: 106
+front_depth_f: 106
+Broken dataset assumption. continuing anyway :/
+num_steps: 63
+l_sh_rgb_f: 107
+l_sh_depth_f: 107
+r_sh_rgb_f: 107
+r_sh_depth_f: 107
+oh_rgb_f: 107
+oh_depth_f: 107
+wrist_rgb_f: 107
+wrist_depth_f: 107
+front_rgb_f: 107
+front_depth_f: 107
+Broken dataset assumption. continuing anyway :/
+num_steps: 110
+l_sh_rgb_f: 126
+l_sh_depth_f: 126
+r_sh_rgb_f: 126
+r_sh_depth_f: 126
+oh_rgb_f: 126
+oh_depth_f: 126
+wrist_rgb_f: 126
+wrist_depth_f: 126
+front_rgb_f: 126
+front_depth_f: 126
+Broken dataset assumption. continuing anyway :/
+num_steps: 72
+l_sh_rgb_f: 137
+l_sh_depth_f: 137
+r_sh_rgb_f: 137
+r_sh_depth_f: 137
+oh_rgb_f: 137
+oh_depth_f: 137
+wrist_rgb_f: 137
+wrist_depth_f: 137
+front_rgb_f: 137
+front_depth_f: 137
+Broken dataset assumption. continuing anyway :/
+num_steps: 110
+l_sh_rgb_f: 182
+l_sh_depth_f: 182
+r_sh_rgb_f: 182
+r_sh_depth_f: 182
+oh_rgb_f: 182
+oh_depth_f: 182
+wrist_rgb_f: 182
+wrist_depth_f: 182
+front_rgb_f: 182
+front_depth_f: 182
+Broken dataset assumption. continuing anyway :/
+num_steps: 65
+l_sh_rgb_f: 146
+l_sh_depth_f: 146
+r_sh_rgb_f: 146
+r_sh_depth_f: 146
+oh_rgb_f: 146
+oh_depth_f: 146
+wrist_rgb_f: 146
+wrist_depth_f: 146
+front_rgb_f: 146
+front_depth_f: 146
+Broken dataset assumption. continuing anyway :/
+INFO:root:Loading Demo(3) - found 30 keypoints - stack_blocks
+INFO:root:Loading Demo(4) - found 23 keypoints - stack_blocks
+INFO:root:Loading Demo(5) - found 27 keypoints - stack_blocks
+INFO:root:Loading Demo(6) - found 15 keypoints - stack_blocks
+INFO:root:Loading Demo(7) - found 21 keypoints - stack_blocks
+INFO:root:Loading Demo(8) - found 14 keypoints - stack_blocks
+INFO:root:Loading Demo(9) - found 21 keypoints - stack_blocks
+INFO:root:Loading Demo(10) - found 14 keypoints - stack_blocks
+INFO:root:Loading Demo(11) - found 13 keypoints - stack_blocks
+INFO:root:Loading Demo(12) - found 23 keypoints - stack_blocks
+INFO:root:Loading Demo(13) - found 22 keypoints - stack_blocks
+INFO:root:Loading Demo(14) - found 23 keypoints - stack_blocks
+INFO:root:Loading Demo(15) - found 13 keypoints - stack_blocks
+INFO:root:Loading Demo(16) - found 29 keypoints - stack_blocks
+INFO:root:Loading Demo(17) - found 19 keypoints - stack_blocks
+INFO:root:Loading Demo(18) - found 21 keypoints - stack_blocks
+INFO:root:Loading Demo(19) - found 24 keypoints - stack_blocks
+num_steps: 405
+l_sh_rgb_f: 961
+l_sh_depth_f: 961
+r_sh_rgb_f: 961
+r_sh_depth_f: 961
+oh_rgb_f: 961
+oh_depth_f: 961
+wrist_rgb_f: 961
+wrist_depth_f: 961
+front_rgb_f: 961
+front_depth_f: 961
+Broken dataset assumption. continuing anyway :/
+num_steps: 328
+l_sh_rgb_f: 434
+l_sh_depth_f: 434
+r_sh_rgb_f: 434
+r_sh_depth_f: 434
+oh_rgb_f: 434
+oh_depth_f: 434
+wrist_rgb_f: 434
+wrist_depth_f: 434
+front_rgb_f: 434
+front_depth_f: 434
+Broken dataset assumption. continuing anyway :/
+num_steps: 535
+l_sh_rgb_f: 629
+l_sh_depth_f: 629
+r_sh_rgb_f: 629
+r_sh_depth_f: 629
+oh_rgb_f: 629
+oh_depth_f: 629
+wrist_rgb_f: 629
+wrist_depth_f: 629
+front_rgb_f: 629
+front_depth_f: 629
+Broken dataset assumption. continuing anyway :/
+num_steps: 266
+l_sh_rgb_f: 556
+l_sh_depth_f: 556
+r_sh_rgb_f: 556
+r_sh_depth_f: 556
+oh_rgb_f: 556
+oh_depth_f: 556
+wrist_rgb_f: 556
+wrist_depth_f: 556
+front_rgb_f: 556
+front_depth_f: 556
+Broken dataset assumption. continuing anyway :/
+num_steps: 371
+l_sh_rgb_f: 517
+l_sh_depth_f: 517
+r_sh_rgb_f: 517
+r_sh_depth_f: 517
+oh_rgb_f: 517
+oh_depth_f: 517
+wrist_rgb_f: 517
+wrist_depth_f: 517
+front_rgb_f: 517
+front_depth_f: 517
+Broken dataset assumption. continuing anyway :/
+num_steps: 340
+l_sh_rgb_f: 662
+l_sh_depth_f: 662
+r_sh_rgb_f: 662
+r_sh_depth_f: 662
+oh_rgb_f: 662
+oh_depth_f: 662
+wrist_rgb_f: 662
+wrist_depth_f: 662
+front_rgb_f: 662
+front_depth_f: 662
+Broken dataset assumption. continuing anyway :/
+num_steps: 469
+l_sh_rgb_f: 519
+l_sh_depth_f: 519
+r_sh_rgb_f: 519
+r_sh_depth_f: 519
+oh_rgb_f: 519
+oh_depth_f: 519
+wrist_rgb_f: 519
+wrist_depth_f: 519
+front_rgb_f: 519
+front_depth_f: 519
+Broken dataset assumption. continuing anyway :/
+num_steps: 408
+l_sh_rgb_f: 588
+l_sh_depth_f: 588
+r_sh_rgb_f: 588
+r_sh_depth_f: 588
+oh_rgb_f: 588
+oh_depth_f: 588
+wrist_rgb_f: 588
+wrist_depth_f: 588
+front_rgb_f: 588
+front_depth_f: 588
+Broken dataset assumption. continuing anyway :/
+num_steps: 273
+l_sh_rgb_f: 586
+l_sh_depth_f: 586
+r_sh_rgb_f: 586
+r_sh_depth_f: 586
+oh_rgb_f: 586
+oh_depth_f: 586
+wrist_rgb_f: 586
+wrist_depth_f: 586
+front_rgb_f: 586
+front_depth_f: 586
+Broken dataset assumption. continuing anyway :/
+num_steps: 427
+l_sh_rgb_f: 785
+l_sh_depth_f: 785
+r_sh_rgb_f: 785
+r_sh_depth_f: 785
+oh_rgb_f: 785
+oh_depth_f: 785
+wrist_rgb_f: 785
+wrist_depth_f: 785
+front_rgb_f: 785
+front_depth_f: 785
+Broken dataset assumption. continuing anyway :/
+num_steps: 445
+l_sh_rgb_f: 460
+l_sh_depth_f: 460
+r_sh_rgb_f: 460
+r_sh_depth_f: 460
+oh_rgb_f: 460
+oh_depth_f: 460
+wrist_rgb_f: 460
+wrist_depth_f: 460
+front_rgb_f: 460
+front_depth_f: 460
+Broken dataset assumption. continuing anyway :/
+num_steps: 405
+l_sh_rgb_f: 961
+l_sh_depth_f: 961
+r_sh_rgb_f: 961
+r_sh_depth_f: 961
+oh_rgb_f: 961
+oh_depth_f: 961
+wrist_rgb_f: 961
+wrist_depth_f: 961
+front_rgb_f: 961
+front_depth_f: 961
+Broken dataset assumption. continuing anyway :/
+num_steps: 328
+l_sh_rgb_f: 434
+l_sh_depth_f: 434
+r_sh_rgb_f: 434
+r_sh_depth_f: 434
+oh_rgb_f: 434
+oh_depth_f: 434
+wrist_rgb_f: 434
+wrist_depth_f: 434
+front_rgb_f: 434
+front_depth_f: 434
+Broken dataset assumption. continuing anyway :/
+num_steps: 535
+l_sh_rgb_f: 629
+l_sh_depth_f: 629
+r_sh_rgb_f: 629
+r_sh_depth_f: 629
+oh_rgb_f: 629
+oh_depth_f: 629
+wrist_rgb_f: 629
+wrist_depth_f: 629
+front_rgb_f: 629
+front_depth_f: 629
+Broken dataset assumption. continuing anyway :/
+num_steps: 266
+l_sh_rgb_f: 556
+l_sh_depth_f: 556
+r_sh_rgb_f: 556
+r_sh_depth_f: 556
+oh_rgb_f: 556
+oh_depth_f: 556
+wrist_rgb_f: 556
+wrist_depth_f: 556
+front_rgb_f: 556
+front_depth_f: 556
+Broken dataset assumption. continuing anyway :/
+num_steps: 371
+l_sh_rgb_f: 517
+l_sh_depth_f: 517
+r_sh_rgb_f: 517
+r_sh_depth_f: 517
+oh_rgb_f: 517
+oh_depth_f: 517
+wrist_rgb_f: 517
+wrist_depth_f: 517
+front_rgb_f: 517
+front_depth_f: 517
+Broken dataset assumption. continuing anyway :/
+num_steps: 340
+l_sh_rgb_f: 662
+l_sh_depth_f: 662
+r_sh_rgb_f: 662
+r_sh_depth_f: 662
+oh_rgb_f: 662
+oh_depth_f: 662
+wrist_rgb_f: 662
+wrist_depth_f: 662
+front_rgb_f: 662
+front_depth_f: 662
+Broken dataset assumption. continuing anyway :/
+num_steps: 469
+l_sh_rgb_f: 519
+l_sh_depth_f: 519
+r_sh_rgb_f: 519
+r_sh_depth_f: 519
+oh_rgb_f: 519
+oh_depth_f: 519
+wrist_rgb_f: 519
+wrist_depth_f: 519
+front_rgb_f: 519
+front_depth_f: 519
+Broken dataset assumption. continuing anyway :/
+num_steps: 408
+l_sh_rgb_f: 588
+l_sh_depth_f: 588
+r_sh_rgb_f: 588
+r_sh_depth_f: 588
+oh_rgb_f: 588
+oh_depth_f: 588
+wrist_rgb_f: 588
+wrist_depth_f: 588
+front_rgb_f: 588
+front_depth_f: 588
+Broken dataset assumption. continuing anyway :/
+num_steps: 273
+l_sh_rgb_f: 586
+l_sh_depth_f: 586
+r_sh_rgb_f: 586
+r_sh_depth_f: 586
+oh_rgb_f: 586
+oh_depth_f: 586
+wrist_rgb_f: 586
+wrist_depth_f: 586
+front_rgb_f: 586
+front_depth_f: 586
+Broken dataset assumption. continuing anyway :/
+num_steps: 427
+l_sh_rgb_f: 785
+l_sh_depth_f: 785
+r_sh_rgb_f: 785
+r_sh_depth_f: 785
+oh_rgb_f: 785
+oh_depth_f: 785
+wrist_rgb_f: 785
+wrist_depth_f: 785
+front_rgb_f: 785
+front_depth_f: 785
+Broken dataset assumption. continuing anyway :/
+num_steps: 445
+l_sh_rgb_f: 460
+l_sh_depth_f: 460
+r_sh_rgb_f: 460
+r_sh_depth_f: 460
+oh_rgb_f: 460
+oh_depth_f: 460
+wrist_rgb_f: 460
+wrist_depth_f: 460
+front_rgb_f: 460
+front_depth_f: 460
+Broken dataset assumption. continuing anyway :/
+INFO:root:# Q Params: 33240669
+INFO:root:# Q Params: 33240669
+INFO:torch.nn.parallel.distributed:Reducer buckets have been rebuilt in this iteration.
+INFO:torch.nn.parallel.distributed:Reducer buckets have been rebuilt in this iteration.
+INFO:root:Train Step 000100 | Loss: 21.79572 | Step time: 0.6723.
+Starting training!!
+Error executing job with overrides: ['method=PERACT_BC', 'rlbench.task_name=PERACT_BC_20240126', 'rlbench.demo_path=/root/workspace/data/train_data', 'replay.path=/root/workspace/replay/PERACT_BC_20240126', 'framework.start_seed=0', 'framework.use_wandb=False', 'method.use_wandb=False', 'framework.wandb_group=PERACT_BC_20240126', 'ddp.num_devices=2', 'ddp.master_port=12345']
+Traceback (most recent call last):
+  File "/root/workspace/GNFactor/train.py", line 113, in <module>
+    main()
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/main.py", line 49, in decorated_main
+    _run_hydra(
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/_internal/utils.py", line 367, in _run_hydra
+    run_and_report(
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/_internal/utils.py", line 214, in run_and_report
+    raise ex
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/_internal/utils.py", line 211, in run_and_report
+    return func()
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/_internal/utils.py", line 368, in <lambda>
+    lambda: hydra.run(
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/_internal/hydra.py", line 110, in run
+    _ = ret.return_value
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/core/utils.py", line 233, in return_value
+    raise self._return_value
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/hydra/core/utils.py", line 160, in run_job
+    ret.return_value = task_function(task_cfg)
+  File "/root/workspace/GNFactor/train.py", line 100, in main
+    mp.spawn(run_seed_fn.run_seed,
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 240, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method='spawn')
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 198, in start_processes
+    while not context.join():
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 160, in join
+    raise ProcessRaisedException(msg, error_index, failed_process.pid)
+torch.multiprocessing.spawn.ProcessRaisedException: 
+
+-- Process 0 terminated with the following error:
+Traceback (most recent call last):
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 69, in _wrap
+    fn(i, *args)
+  File "/root/workspace/GNFactor/run_seed_fn.py", line 110, in run_seed
+    train_runner.start()
+  File "/root/workspace/third_party/YARR/yarr/runners/offline_train_runner.py", line 175, in start
+    loss = self._step(i, batch)
+  File "/root/workspace/third_party/YARR/yarr/runners/offline_train_runner.py", line 97, in _step
+    update_dict = self._agent.update(i, sampled_batch)
+  File "/root/workspace/GNFactor/helpers/preprocess_agent.py", line 58, in update
+    return self._pose_agent.update(step, replay_sample)
+  File "/root/workspace/GNFactor/agents/peract_bc/qattention_stack_agent.py", line 41, in update
+    update_dict = qa.update(step, replay_sample)
+  File "/root/workspace/GNFactor/agents/peract_bc/qattention_peract_bc_agent.py", line 429, in update
+    voxel_grid = self._q(obs,
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/root/workspace/GNFactor/agents/peract_bc/qattention_peract_bc_agent.py", line 103, in forward
+    q_ignore_collisions = self._qnet(voxel_grid,
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1002, in forward
+    self._sync_buffers()
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1585, in _sync_buffers
+    self._sync_module_buffers(authoritative_rank)
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1589, in _sync_module_buffers
+    self._default_broadcast_coalesced(authoritative_rank=authoritative_rank)
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1610, in _default_broadcast_coalesced
+    self._distributed_broadcast_coalesced(
+  File "/root/.pyenv/versions/3.9.18/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1526, in _distributed_broadcast_coalesced
+    dist._broadcast_coalesced(
+RuntimeError: [../third_party/gloo/gloo/transport/tcp/unbound_buffer.cc:133] Timed out waiting 1800000ms for send operation to complete
+
+[2024-01-26 09:26:13,497][root][INFO] - Using env device cuda:0.
+[2024-01-26 09:26:13,716][root][INFO] - Evaluating seed 0.
+Missing weights:  []
+[2024-01-26 09:26:16,550][root][INFO] - No weights to evaluate. Results are already available in eval_data.csv
+/root/.pyenv/versions/3.9.18/lib/python3.9/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 4 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

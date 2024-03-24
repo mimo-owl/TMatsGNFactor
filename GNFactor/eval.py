@@ -83,6 +83,7 @@ def eval_seed(train_cfg,
 
     # evaluate all checkpoints (0, 1000, ...) which don't have results, i.e. validation phase
     if eval_cfg.framework.eval_type == 'missing':
+        print('eval_cfg.framework.eval_type: missing')
         weight_folders = os.listdir(weightsdir)
         weight_folders = sorted(map(int, weight_folders))
         env_data_csv_file = os.path.join(logdir, 'eval_data.csv')
@@ -179,8 +180,17 @@ def main(eval_cfg: DictConfig) -> None:
     start_seed = eval_cfg.framework.start_seed
     cwd = os.getcwd()
     logdir = os.path.join(cwd, 'seed%d' % start_seed)
+    # move_dir = os.path.join(cwd, 'GNFactor')
+    # logdir = os.path.join(move_dir, 'seed%d' % start_seed)
+    # logdir = "/root/workspace/GNFactor/logs/GNFACTOR_BC_released/seed0" # modify
+    logdir = "/root/workspace/GNFactor/logs/GNFACTOR_BC_20240118/seed0" # modify
+    print(f"logdir: {logdir}")
+    print("hi")
+
+
 
     train_config_path = os.path.join(logdir, 'config.yaml')
+    print(f"train_config_path: {train_config_path}")
 
     if os.path.exists(train_config_path):
         with open(train_config_path, 'r') as f:

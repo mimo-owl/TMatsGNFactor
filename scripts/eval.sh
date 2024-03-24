@@ -15,8 +15,11 @@ eval_gpu="0"
 
 
 # cur_dir=$(pwd)
-train_demo_path="${cur_dir}/data/train_data"
-test_demo_path="${cur_dir}/data/test_data"
+# train_demo_path="${cur_dir}/data/train_data"
+# test_demo_path="${cur_dir}/data/test_data"
+
+train_demo_path="/root/workspace/data/train_data"
+test_demo_path="/root/workspace/data/test_data"
 
 
 cd GNFactor
